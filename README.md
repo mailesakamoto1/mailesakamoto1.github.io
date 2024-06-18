@@ -1,5 +1,7 @@
 ## Developer Portfolio Landing Page Template
 
+_Attribution: This starting template was adapted from the template repo by Evanca [here](https://github.com/evanca/quick-portfolio)._
+
 ### Introduction
 
 Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
