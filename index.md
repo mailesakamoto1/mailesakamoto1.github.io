@@ -11,7 +11,7 @@
 <img src="images/thumb1.png?raw=true"/>
 
 ---
-[Project 2 Title](Presentation Slides - Maile & Kass.pdf)
+[Supporting Healthy Lifestyles in Healthcare Professionals - Data Visualization Fall 2023 Final Project](Data 502 Final Project.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
