@@ -1,3 +1,6 @@
+## Download My Resume
+[MaileSakamotoResume](Resume-MaileSakamoto.pdf)
+
 ## Projects
 
 ---
