@@ -7,11 +7,11 @@
 
 ---
 
-[ Barometric Pressure & Tide Levels on the Oregon Coast - Data Engineering Winter 2024 Final Project](sample_page)
+[ Barometric Pressure & Tide Levels on the Oregon Coast - Data Engineering Winter 2024 Final Project](Presentation Slides - Maile & Kass.pdf)
 <img src="images/thumb1.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](Presentation Slides - Maile & Kass.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
