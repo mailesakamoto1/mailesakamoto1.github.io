@@ -2,15 +2,16 @@
 
 ---
 
-[Project 1 Title](sample_page)
+[ Analysis and Evalution of Kickstarter Data in R - Data Science in R Fall 2023 Final Project](file:///Users/mailesakamoto/Desktop/!/Willamette%20U/Fall%2023/Data%20Science%20w:%20R/SAKAMOTO_MAILE_DATA501_PDX_FINALPROJECT.html)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[ Barometric Pressure & Tide Levels on the Oregon Coast - Data Engineering Winter 2024 Final Project](sample_page)
 <img src="images/thumb1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
